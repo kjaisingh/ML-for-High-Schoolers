@@ -40,9 +40,11 @@ The link to this free course is: https://www.coursera.org/learn/machine-learning
  
 ### 3. Learning an assortment of machine learning algorithms and understand how to implement them in real-world scenarios.
   
-For this, theres no better tutors online than Kirill Eremenko and Hadelin de Ponteves - the two from the SuperDataScience team are absolutely fantastic at finding relevant ways to apply simple algorithms in real life. Furthermore, they go into a suitable amount of depth to understand the functionality of the algorithm, but without the complex mathics that a high school would not be able to understand.
+Now, understanding machine learning algorithms without the knowledge of university-level maths - this should be hard in theory, however, a team from Australia resolved this issue.
 
-The course covers both Python and R, though you don't have to worry about R - simply go through the Python tutorials. Also, if you find that they are going a bit too slow, play this course at 1.25x speed (I did that and found it much better).
+Kirill Eremenko and Hadelin de Ponteves - a pair from the SuperDataScience team - are absolutely fantastic at finding relevant ways to apply simple algorithms in real life. Furthermore, they go into a suitable amount of depth to understand the functionality of the algorithm, but without the complex mathics that a high school would not be able to understand.
+
+Their course covers both Python and R, though you don't have to worry about R - simply go through the Python tutorials. Also, if you find that they are going a bit too slow, play this course at 1.25x speed (I did that and found it much better).
 
 Their course is on Udemy, and is paid, though Udemy regularly has discounts of 90% or more on their courses. It can be found at https://www.udemy.com/machinelearning/learn/v4/overview, and is usually around $10. 
 
