@@ -1,5 +1,5 @@
 # A High School Student's Guide to learning Machine Learning and Artificial Intelligence
-Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my best attempt to create one.
+Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field * for High School students *. However, it can be used by any beginner entering the field. This is my best attempt to create one.
 
 
 I spent a couple of holidays in Grade 11 (Junior year) studying this field every day, and its been one of the best decisions of my life - I learnt an endless amount. I continue to spend around an hour every day understanding this field, be it watching Youtube videos or undertaking projects.
