@@ -46,9 +46,9 @@ The course covers both Python and R, though you don't have to worry about R - si
 
 Their course is on Udemy, and is paid, though Udemy regularly has discounts of 90% or more on their courses. It can be found at https://www.udemy.com/machinelearning/learn/v4/overview, and is usually around $10. 
 
-If you are unable to afford such a course, do try and write to SuperDataScience or Udemy via email. However, if this doesn't work, you can check out Google's free Deep Learning course at https://www.udacity.com/course/deep-learning--ud730 or University of Michigan's free course at https://www.coursera.org/learn/python-machine-learning. 
-
 It covers everything from basic regression algorithms to deep and convolutional neural networks. If you wish to explore even more advanced areas, their Deep Learning course is offered at the end of the Machine Learning for a 90% discount. However, concepts in this second course may be a little advanced and lack proper documentation, since they are so new.
+
+If you're unwilling to pay for this course, you can check out Google's free Deep Learning course at https://www.udacity.com/course/deep-learning--ud730 or University of Michigan's free course at https://www.coursera.org/learn/python-machine-learning. However, these are far from as well-rounded as the SuperDataScience team's courses.
 
 For these courses, taking notes aren't a necessity - there are tons of 'algorithm cheat sheets' online, which offer a quick intution on how they work. This website (https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/) lists a few.
 
