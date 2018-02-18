@@ -46,7 +46,9 @@ It goes through both Python and R, though you don't have to worry about Python -
 
 Their course is on Udemy, and is paid, though Udemy regularly has discounts of 90% or more on their courses. It can be found at https://www.udemy.com/machinelearning/learn/v4/overview, and is usually around $10. 
 
-It covers everything from basic regression algorithms to deep and convolutional neural networks. If you wish to explore even more advanced areas, their Deep Learning course is offered at the end of the Machine Learning for a 90% discount. However, concepts in this second course may be a little  advanced and lack proper documentation, since they are so new.
+If you are unable to afford such a course, do try and write to Kirill or Hadlin via email - they seem like very nice men. However, if this doesn't work, you can check out Google's free Deep Learning course at https://www.udacity.com/course/deep-learning--ud730, 
+
+It covers everything from basic regression algorithms to deep and convolutional neural networks. If you wish to explore even more advanced areas, their Deep Learning course is offered at the end of the Machine Learning for a 90% discount. However, concepts in this second course may be a little advanced and lack proper documentation, since they are so new.
 
 
 ### 4. Explore, explore and explore.
@@ -69,6 +71,8 @@ I'll list some possible areas, but before you begin one of these, understand wha
 - Natural Language Processing: Understanding how computers learn to speak is also a prominent topic today. Once again, Stanford offers a great course thats online (http://web.stanford.edu/class/cs224n/). If you don't understand some of the Math concepts, don't worry, just gain an understanding of how this field works. For implementations, you could undertake this Udemy course: https://www.udemy.com/data-science-natural-language-processing-in-python/. However, you could alternatively go through some of well-known Machine Learner Siraj Raval's videos (such as https://www.youtube.com/watch?v=9zhrxE5PQgY)
 
 - Reinforcement Learning: This domain focuses on how machines learn to act in a particular way, and its most popular application is in the field of video games. Siraj Raval again has a pretty good playlist on this (https://www.youtube.com/watch?v=i_McNBDP9Qs&list=PL2-dafEMk2A5FZ-MnPMpp3PBtZcINKwLA). David Silver's UCL course is great, though beginners may find it a bit tricky - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
+- Data Science: This field is a budding domain with tons of exciting job oppurtunities. I suggest undertaking either SuperDataScience's course (https://www.udemy.com/datascience/) or UC San Diego's Python-based course (https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x), though you should find a specific learning path for data science with a simple Google search. This field, hwoever, may require more advanced maths.
 
 - There are also areas like Representation Learning (used for recommendation systems), Adversial Networks (AI improving AI) and Genetic Algorithms (improving a solution to a problem in a way similar to natural evolution), but in my opinion, these are a stretch for most high school students. Do feel free to explore these if you have a particular passion for one of them, though they aren't as well covered as the other domains, largely due to the fact that they aren't currently monetized as much as the other fields.
 
