@@ -59,7 +59,9 @@ For these courses, taking notes aren't a necessity - there are tons of 'algorith
   
 Now, you've covered a wide range of machine learning concepts, and have learnt a vast amount of skills. Its time for you to independently use these on basic projects. I'd suggest going to Kaggle (https://www.kaggle.com/) or the UCI Machine Learning repository (http://archive.ics.uci.edu/ml/datasets.html), finding a dataset you have an interest in, and simply modelling some solutions to these. Play around with different algorithms, and try to optimize performance.
 
-If you ever come across a road block, Stack Overflow is your best friend - they have an answer to almost any question that you'd have. If it doesn't, just post one - you should get replies within a couple of hours!
+Ensure that the datasets you use are simple and clean in nature - they shouldn't require too much pre-processing or modifying. Some easy dataset (off the top of my head) are the Iris, Wine, Breast Cancer Wisconsin, Autism Screening, Congress Voting, Handwritten Digits MNIST and Fashion MNIST ones.
+
+If you ever come across a road block, Stack Overflow (https://stackoverflow.com/) is your best friend - they have an answer to almost any question that you'd have. If it doesn't, just post one - you should get replies within a couple of hours!
 
 There's nothing much more I need to say here - when you find that you've become comfortable with the whole modelling process, feel free to move on!
 
