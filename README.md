@@ -46,7 +46,7 @@ It goes through both Python and R, though you don't have to worry about Python -
 
 Their course is on Udemy, and is paid, though Udemy regularly has discounts of 90% or more on their courses. It can be found at https://www.udemy.com/machinelearning/learn/v4/overview, and is usually around $10. 
 
-If you are unable to afford such a course, do try and write to Kirill or Hadlin via email - they seem like very nice men. However, if this doesn't work, you can check out Google's free Deep Learning course at https://www.udacity.com/course/deep-learning--ud730, 
+If you are unable to afford such a course, do try and write to Kirill or Hadlin via email - they seem like very nice men. However, if this doesn't work, you can check out Google's free Deep Learning course at https://www.udacity.com/course/deep-learning--ud730 or University of Michigan's free course at https://www.coursera.org/learn/python-machine-learning#syllabus. 
 
 It covers everything from basic regression algorithms to deep and convolutional neural networks. If you wish to explore even more advanced areas, their Deep Learning course is offered at the end of the Machine Learning for a 90% discount. However, concepts in this second course may be a little advanced and lack proper documentation, since they are so new.
 
