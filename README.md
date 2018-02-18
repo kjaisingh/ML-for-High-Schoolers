@@ -19,11 +19,11 @@ I strongly suggest Python for this - not only is it extremely easy to learn, it 
 
 - For those of you who have never coded before, I suggest going a course provided by the University of Toronto (one of the best universities for ML/AI right now). It will take you a few weeks, but its well worth your time - most of the knowledge you gain through this course can be applied to any other programming language, the only difference being the syntax. The course is free, and can be found at https://www.coursera.org/learn/learn-to-program?siteID=SAyYsTvLiGQ-rs4V8qoewjp3oL7Nr.r_Fw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ#
 
-- For those of you who have coding experience in another language, just skim through this tutorial - it won't take you more than a day: https://www.tutorialspoint.com/python/python_basic_syntax.htm
+- For those of you who have coding experience in a language besides Python, just skim through this tutorial for syntax - it won't take you more than a day: https://www.tutorialspoint.com/python/python_basic_syntax.htm
 
 - Now, after you've learnt the basics of Python, you need to understand those three libraries I was talking about. Numpy arrays and Pandas are used for functions involving the data you use. The following courses together shouldn't take more than a couple of days:
   - Numpy: http://cs231n.github.io/python-numpy-tutorial/
-  - Pandas (in 10 mins): https://pandas.pydata.org/pandas-docs/stable/10min.html
+  - Pandas: https://pandas.pydata.org/pandas-docs/stable/10min.html
   
   
 Great! Now you should be set in the core programming needed to learn Machine Learning and Artificial Intelligence.
@@ -31,18 +31,18 @@ Great! Now you should be set in the core programming needed to learn Machine Lea
  
 ### 2. Getting into the basics of Machine Learning.
  
-If there's one universal course for Machine Learning, it has to be Andrew Ng's course. This course is nothing short of brilliant, though for high school students, it may seem slightly challenging at times, as it uses things like partial derivatives and more.
+If there's one universal course for Machine Learning, it has to be Andrew Ng's course. This course is nothing short of brilliant, though for high school students, it may seem slightly challenging at times, as it refers to concepts such as partial derivatives (though these aren't required to understand the course). I found it beneficial to re-watch some lectures in Weeks 3 to 5 - it may be a bit fast the first time around.
  
-As a result, I encourage everyone to go through this and take notes, though doing the programming-related tutorials and exercises is not needed, as its done in Matlab, which (in my experience) is often too tough for high schoolers to grasp. But don't worry, we will be doing the very same (and far more complicated) algorithms in Python in just a short amount of time.
+I encourage everyone to go through this and take notes, though doing the programming-related tutorials and exercises is not needed, as its done in Matlab, which (in my experience) is often too tough for high schoolers to grasp. But don't worry, we will be doing the very same (and far more advanced) algorithms in Python in just a short amount of time.
  
-The link to this brilliant, free course is: https://www.coursera.org/learn/machine-learning
+The link to this free course is: https://www.coursera.org/learn/machine-learning
  
  
 ### 3. Learning an assortment of machine learning algorithms and understand how to implement them in real-world scenarios.
   
 For this, theres no better tutors online than Kirill Eremenko and Hadelin de Ponteves - the two from the SuperDataScience team are absolutely fantastic at finding relevant ways to apply simple algorithms in real life. Furthermore, they go into a suitable amount of depth to understand the functionality of the algorithm, but without the complex mathics that a high school would not be able to understand.
 
-It goes through both Python and R, though you don't have to worry about Python - simply go through the Python tutorials. Also, if you find that they are going a bit too slow, play this course at 1.25x speed (I did that and found it much better).
+The course covers both Python and R, though you don't have to worry about R - simply go through the Python tutorials. Also, if you find that they are going a bit too slow, play this course at 1.25x speed (I did that and found it much better).
 
 Their course is on Udemy, and is paid, though Udemy regularly has discounts of 90% or more on their courses. It can be found at https://www.udemy.com/machinelearning/learn/v4/overview, and is usually around $10. 
 
