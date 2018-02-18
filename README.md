@@ -50,6 +50,8 @@ If you are unable to afford such a course, do try and write to SuperDataScience 
 
 It covers everything from basic regression algorithms to deep and convolutional neural networks. If you wish to explore even more advanced areas, their Deep Learning course is offered at the end of the Machine Learning for a 90% discount. However, concepts in this second course may be a little advanced and lack proper documentation, since they are so new.
 
+For these courses, taking notes aren't a necessity - there are tons of 'algorithm cheat sheets' online, which offer a quick intution on how they work. This website (https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/) lists a few.
+
 
 ### 4. Explore, explore and explore.
   
