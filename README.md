@@ -17,11 +17,11 @@ So, lets get to it.
 I strongly suggest Python for this - not only is it extremely easy to learn, it supports pretty much any good library used in Machine Learning. While R is useful, I just find that Python in general is far more suitable for high school students. Besides basic programming, for Machine Learning in particular, the libraries that are most useful are Numpy, Pandas and Matplotlib. 
 
 
-- For those of you who have never coded before, I suggest going a course provided by the University of Toronto (one of the best universities for ML/AI right now). It will take you a few weeks, but its well worth your time - most of the knowledge you gain through this course can be applied to any other programming language, the only difference being the syntax. The course is free, and can be found at https://www.coursera.org/learn/learn-to-program?siteID=SAyYsTvLiGQ-rs4V8qoewjp3oL7Nr.r_Fw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ#
+- For those of you who have never coded before, I suggest going to a course provided by the University of Toronto (one of the best universities for ML/AI right now). It will take you a few weeks, but its well worth your time - most of the knowledge you gain through this course can be applied to any other programming language, the only difference being the syntax. The course is free, and can be found at https://www.coursera.org/learn/learn-to-program?siteID=SAyYsTvLiGQ-rs4V8qoewjp3oL7Nr.r_Fw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ#
 
 - For those of you who have coding experience in a language besides Python, just skim through this tutorial for syntax - it won't take you more than a day: https://www.tutorialspoint.com/python/python_basic_syntax.htm
 
-- Now, after you've learnt the basics of Python, you need to understand those the first two libraries I was talking about (Matplotlib  can come later). Numpy arrays and Pandas are used for moving around and modifying  the data you use, while Matplotlib is used to visualize this data through graphs and diagrams. The following courses together shouldn't take more than a couple of days:
+- Now, after you've learnt the basics of Python, you need to understand the first two libraries I was talking about (Matplotlib  can come later). Numpy arrays and Pandas are used for moving around and modifying  the data you use, while Matplotlib is used to visualize this data through graphs and diagrams. The following courses together shouldn't take more than a couple of days:
   - Numpy: http://cs231n.github.io/python-numpy-tutorial/
   - Pandas: https://pandas.pydata.org/pandas-docs/stable/10min.html
   
@@ -99,7 +99,7 @@ There's a few things that a high schooler should do to deepen their general unde
 
 5. The Philosophy: AI has its supporters and its opposers. The philosphy behind it, however, is intriguing. My favourite books that explore this area, and are suitable for High School students, include 'How to Create a Mind' by Ray Kurzweil and 'Life 3.0' by Max Tegmark (http://s3.amazonaws.com/arena-attachments/1446178/cffa5ebc74cee2b1edf58fa9a5bbcb1c.pdf?1511265314) - do try and read these. 
 
-6. Contributing: If you're the kind of person who likes to get learn from others' experience, check out the Artificial Intelligence & Deep Learning Facebook group. Alternatively, if you prefer conversations, check out Reddit's thread on AI at https://www.reddit.com/r/artificial/. 
+6. Contributing: If you're the kind of person who likes to learn from others experience, check out the Artificial Intelligence & Deep Learning Facebook group. Alternatively, if you prefer conversations, check out Reddit's thread on AI at https://www.reddit.com/r/artificial/. 
 
 
 ## Conclusion
