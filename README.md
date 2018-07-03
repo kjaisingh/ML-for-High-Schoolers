@@ -31,7 +31,7 @@ Great! Now you should be set in the core programming needed to learn Machine Lea
  
 ### 2. Getting into the basics of Machine Learning.
  
-If there's one universal course for Machine Learning, it has to be Andrew Ng's course. This course is nothing short of brilliant, though for high school students, it may seem slightly challenging at times, as it refers to concepts such as partial derivatives (though these aren't required to understand the course). I found it beneficial to re-watch some lectures in Weeks 3 to 5 - it may be a bit fast the first time around.
+If there's one universal course for Machine Learning, it has to be Andrew Ng's course. This course is nothing short of brilliant, though for high school students, it may seem slightly challenging at times, as it refers to concepts such as partial derivatives (though these aren't required to understand the course). I found it beneficial to re-watch some lectures in Weeks 3 to 5 - it may be a bit fast the first time around. Don't be too worried if you can't grasp some of the derivations - these require high university-level math knowledge. Being able to follow the thought process and gain an understanding of the operations should be enough for now.
  
 I encourage everyone to go through this and take notes, though doing the programming-related tutorials and exercises is not needed, as its done in Matlab, which (in my experience) is often too tough for high schoolers to grasp. But don't worry, we will be doing the very same (and far more advanced) algorithms in Python in just a short amount of time.
  
