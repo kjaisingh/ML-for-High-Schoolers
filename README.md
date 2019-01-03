@@ -97,7 +97,7 @@ There's a few things that a high schooler should do to deepen their general unde
 
 4. Understand the implications: There's no better way to do this than listening to TED talks. Their speakers are extremely knowledgeable in the field, and there is an increasing emphasis on AI in their speeches. A host of videos can be found at https://www.youtube.com/user/TEDtalksDirector/videos
 
-5. The Philosophy: AI has its supporters and its opposers. The philosphy behind it, however, is intriguing. My favourite books that explore this area, and are suitable for High School students, include 'How to Create a Mind' by Ray Kurzweil and 'Life 3.0' by Max Tegmark (http://s3.amazonaws.com/arena-attachments/1446178/cffa5ebc74cee2b1edf58fa9a5bbcb1c.pdf?1511265314) - do try and read these. 
+5. The Philosophy: AI has its supporters and its opposers. The philosophy behind it, however, is intriguing. My favourite books that explore this area, and are suitable for High School students, include 'How to Create a Mind' by Ray Kurzweil and 'Life 3.0' by Max Tegmark (http://s3.amazonaws.com/arena-attachments/1446178/cffa5ebc74cee2b1edf58fa9a5bbcb1c.pdf?1511265314) - do try and read these. 
 
 6. Contributing: If you're the kind of person who likes to learn from others experience, check out the Artificial Intelligence & Deep Learning Facebook group. Alternatively, if you prefer conversations, check out Reddit's thread on AI at https://www.reddit.com/r/artificial/. 
 
