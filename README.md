@@ -5,7 +5,7 @@ Being a high schooler myself and having studied Machine Learning and Artificial 
 Over the past few months, I've tried to spend a couple of hours every day understanding this field, be it watching Youtube videos or undertaking projects. I've been guided by older peers who've had far more experience than me, and now feel that I have ample experience to share my insights.
 
 
-All the information that I have compiled in this guide is intended for high schoolers wishing to excel in this up and coming field. It is  intended to be followed chronologically, and unlike most guides/learning paths that I've come across, **doesn't require an understanding** of linear algebra, partial derivatives and other complex mathemathical concepts which one cannot find in their high school syllabuses. Howeverr, it does have a course which gives the fundamentals of essential math for Machine Learning which you can find in your Senior Year Math books.
+All the information that I have compiled in this guide is intended for high schoolers wishing to excel in this up and coming field. It is  intended to be followed chronologically, and unlike most guides/learning paths that I've come across, **doesn't require an understanding** of linear algebra, partial derivatives and other complex mathemathical concepts which one cannot find in their high school syllabuses. However, it does have a course which gives the fundamentals of essential math for Machine Learning which you can find in your Senior Year Math books.
 
 If you work through this path on a regular basis, I believe that you could get to a pretty high level in about three months. However, this learning path does provide content that can keep you learning for the rest of your high school stay.
 
