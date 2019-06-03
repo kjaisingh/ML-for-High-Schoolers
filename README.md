@@ -101,7 +101,7 @@ There's a few things that a high schooler should do to deepen their general unde
 
 6. Contributing: If you're the kind of person who likes to learn from others experience, check out the Artificial Intelligence & Deep Learning Facebook group. Alternatively, if you prefer conversations, check out Reddit's thread on AI [here](https://www.reddit.com/r/artificial/). 
 
-7. Delve into the math: Yes, you do need university level math skills, but if you're an extremeley strong math student, there's nothing stopping you from taking some online courses. This [Quora thread](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning) has some great resources that you should check out. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) is a famous name in the community too, as his Youtube videos are fantastic for learning the maths behind some of these more complicated concepts.
+7. Delve into the math: Yes, you do need university level math skills, but if you're an extremeley strong math student, there's nothing stopping you from taking some online courses. Microsoft has a free [course](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2) that I've heard good things about, and requires just High School-level maths. This [Quora thread](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning) also has some great resources that you should check out. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) is a famous name in the community too, as his Youtube videos are fantastic for learning the maths (primarily linear algebra and calculus) behind some of these more complicated concepts.
 
 
 ## Conclusion
