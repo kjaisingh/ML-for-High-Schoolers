@@ -110,4 +110,4 @@ I wish everyone the best of luck in undertaking this learning path. I've heard t
 
 If anyone has additions, suggestions, queries or feedback, feel free to write to me @ kj.jaisingh@gmail.com. 
 
-<a href="https://tracking.gitads.io/?repo=high-school-guide-to-machine-learning"><img src="resources/git-ad.png"></a>
+<a href="https://tracking.gitads.io/?repo=high-school-guide-to-machine-learning"><img src="https://images.gitads.io/high-school-guide-to-machine-learning"></a>
