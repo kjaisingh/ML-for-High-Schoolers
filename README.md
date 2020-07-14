@@ -5,7 +5,7 @@ Being a high schooler myself and having studied Machine Learning and Artificial 
 Over the past few months, I've tried to spend a couple of hours every day understanding this field, be it watching Youtube videos or undertaking projects. I've been guided by older peers who've had far more experience than me, and now feel that I have ample experience to share my insights.
 
 
-All the information that I have compiled in this guide is intended for high schoolers wishing to excel in this up and coming field. It is  intended to be followed chronologically, and unlike most guides/learning paths that I've come across, **doesn't require an understanding** of linear algebra, partial derivatives and other complex mathemathical concepts which one cannot find in their high school syllabuses.
+All the information that I have compiled in this guide is intended for high schoolers wishing to excel in this up and coming field. It is  intended to be followed chronologically, and unlike most guides/learning paths that I've come across, **doesn't require an understanding** of linear algebra, partial derivatives and other complex mathemathical concepts which one cannot find in their high school syllabuses. However, it does have a course which gives the fundamentals of essential math for Machine Learning which you can find in your Senior Year Math books.
 
 If you work through this path on a regular basis, I believe that you could get to a pretty high level in about three months. However, this learning path does provide content that can keep you learning for the rest of your high school stay.
 
@@ -20,6 +20,8 @@ I strongly suggest Python for this - not only is it extremely easy to learn, it 
 - For those of you who have never coded before, I suggest going to a course provided by the University of Toronto (one of the best universities for ML/AI right now). It will take you a few weeks, but its well worth your time - most of the knowledge you gain through this course can be applied to any other programming language, the only difference being the syntax. The course is free, and can be found [here](https://www.coursera.org/learn/learn-to-program?siteID=SAyYsTvLiGQ-rs4V8qoewjp3oL7Nr.r_Fw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ#).
 
 - For those of you who have coding experience in a language besides Python, just skim through [this tutorial](https://www.tutorialspoint.com/python/python_basic_syntax.htm) for syntax - it won't take you more than a day.
+
+- Machine learning and AI are built on mathematical principles like Calculus, Linear Algebra, Probability, Statistics, and Optimization; and many would-be AI practitioners find this daunting. The course on edX [Essential Math for Machine Learning: Python Edition] (https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2) by Microsoft is not designed to make you a mathematician. Rather, it aims to help you learn some __essential foundational concepts and the notation__ used to express them. The course provides a hands-on approach to working with data and applying the techniques you’ve learned.
 
 - Now, after you've learnt the basics of Python, you need to understand the first two libraries I was talking about (Matplotlib  can come later). Numpy arrays and Pandas are used for moving around and modifying  the data you use, while Matplotlib is used to visualize this data through graphs and diagrams. The following courses together shouldn't take more than a couple of days:
   - [Numpy](http://cs231n.github.io/python-numpy-tutorial/)
