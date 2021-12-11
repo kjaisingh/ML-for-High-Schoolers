@@ -95,9 +95,9 @@ It covers everything from basic regression algorithms to deep and convolutional 
 
 它涵盖了从基本回归算法到深度和卷积神经网络的所有内容。如果你想探索更高级的领域，他们的深度学习课程是在机器学习的最后提供的，有 90% 的折扣。然而，这第二门课程中的概念可能有点高级，而且缺乏适当的文件，因为它们是如此之新。
 
-If you're unwilling to pay for this course, you can check out Google's free Deep Learning course [here](https://www.udacity.com/course/deep-learning —— ud730) or University of Michigan's free course [here](https://www.coursera.org/learn/python-machine-learning). However, these are far from as well-rounded as the SuperDataScience team's courses.
+If you're unwilling to pay for this course, you can check out Google's free Deep Learning course [here](https://www.udacity.com/course/deep-learning--ud730) or University of Michigan's free course [here](https://www.coursera.org/learn/python-machine-learning). However, these are far from as well-rounded as the SuperDataScience team's courses.
 
-如果你不愿意为这个课程付费，你可以看看谷歌的免费深度学习课程[这里](https://www.udacity.com/course/deep-learning —— ud730)或密歇根大学的免费课程[这里](https://www.coursera.org/learn/python-machine-learning)。然而，这些课程远不如 SuperDataScience 团队的课程全面。
+如果你不愿意为这个课程付费，你可以看看谷歌的免费深度学习课程[这里](https://www.udacity.com/course/deep-learning--ud730)或密歇根大学的免费课程[这里](https://www.coursera.org/learn/python-machine-learning)。然而，这些课程远不如 SuperDataScience 团队的课程全面。
 
 For these courses, taking notes aren't a necessity - there are tons of 'algorithm cheat sheets' online, which offer a quick intution on how they work. [This website](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/) lists a few.
 
