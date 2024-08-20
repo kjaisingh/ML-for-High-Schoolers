@@ -1,4 +1,9 @@
 # A guide for High School students to learning Machine Learning and Artificial Intelligence
+
+
+<a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-lightgrey"></a>
+<a href="./README-en-cn.md"><img alt="中文" src="https://img.shields.io/badge/中文-lightgrey"></a>
+
 Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field **for High School students**. This is my attempt to create one.
 
 
