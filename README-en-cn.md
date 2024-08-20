@@ -211,4 +211,10 @@ If anyone has additions, suggestions, queries or feedback, feel free to write to
 
 如果有人有补充、建议、疑问或反馈，请随时写信给 me@kj.jaisingh@gmail.com。 
 
-<a href="https://tracking.gitads.io/?repo=high-school-guide-to-machine-learning"><img src="https://images.gitads.io/high-school-guide-to-machine-learning" alt="GitAds"/></a>
+<h2>Guide Contributors</h2>
+
+<a href="https://github.com/kjaisingh/ML-for-High-Schoolers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kjaisingh/ML-for-High-Schoolers" />
+</a>
+
+<br>
