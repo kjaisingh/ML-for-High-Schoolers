@@ -116,3 +116,11 @@ There's a few things that a high schooler should do to deepen their general unde
 I wish everyone the best of luck in undertaking this learning path. I've heard too many people say Machine Learning and Artificial Intelligence is too complicated to learn as a high school student to not write this - with a well-paved learning path, it can be done by anyone. Its just that due to the field being so new and generally thought of as a graduate field of study, theres a lack of one for high school students.
 
 If anyone has additions, suggestions, queries or feedback, feel free to write to me @ kj.jaisingh@gmail.com. 
+
+<h2>Guide Contributors</h2>
+
+<a href="https://github.com/kjaisingh/ML-for-High-Schoolers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kjaisingh/ML-for-High-Schoolers" />
+</a>
+
+<br>
