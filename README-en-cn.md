@@ -2,17 +2,20 @@
 
 # 高中生学习机器学习和人工智能的指南
 
+<a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-lightgrey"></a>
+<a href="./README-en-cn.md"><img alt="中文" src="https://img.shields.io/badge/中文-lightgrey"></a>
+
 Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field **for High School students**. This is my attempt to create one.
 
-作为一名高中生，我已经学习了一年的机器学习和人工智能，我相信在这一领域**没有一个适合高中生的学习途径**。这是我创建一个的尝试。
+作为一名高中生，我已经学习了一年的机器学习和人工智能，我相信在这一领域**没有一个适合高中生的学习途径**。这篇文章是我的一个尝试。
 
 Over the past few months, I've tried to spend a couple of hours every day understanding this field, be it watching Youtube videos or undertaking projects. I've been guided by older peers who've had far more experience than me, and now feel that I have ample experience to share my insights.
 
-在过去的几个月里，我试图每天花几个小时来了解这个领域，无论是看 Youtube 视频还是承担项目。我得到了比我经验多得多的年长同行的指导，现在觉得自己有足够的经验来分享我的见解。
+在过去的几个月里，我试图每天花几个小时来了解这个领域，无论是看 Youtube 视频还是参与项目。我得到了比我经验多得多的比我大的技术大佬的指导，现在觉得自己有足够的经验来分享我的见解。
 
 All the information that I have compiled in this guide is intended for high schoolers wishing to excel in this up and coming field. It is  intended to be followed chronologically, and unlike most guides/learning paths that I've come across, **doesn't require an understanding** of linear algebra, partial derivatives and other complex mathemathical concepts which one cannot find in their high school syllabuses. However, it does have a course which gives the fundamentals of essential math for Machine Learning which you can find in your Senior Year Math books.
 
-我在本指南中汇编的所有信息都是为希望在这一新兴领域取得优异成绩的高中生准备的。与我遇到的大多数指南/学习路径不同的是，**不要求理解线性代数、偏导数和其他复杂的数学概念**，这在高中教学大纲中是找不到的。然而，它确实有一门课程提供了机器学习的基本数学知识，你可以在高三的数学书中找到。
+我在本指南中汇集的所有信息都是为希望在这一新兴领域取得优异成绩的高中生准备的。与我遇到的大多数指南/学习路径不同的是，**不要求理解线性代数、偏导数和其他复杂的数学概念**，这在高中教学大纲中是找不到的。然而，它确实有一门课程提供了机器学习的基本数学知识，你可以在高三的数学书中找到。
 
 If you work through this path on a regular basis, I believe that you could get to a pretty high level in about three months. However, this learning path does provide content that can keep you learning for the rest of your high school stay.
 
@@ -40,7 +43,7 @@ I strongly suggest Python for this - not only is it extremely easy to learn, it 
 
 - Machine learning and AI are built on mathematical principles like Calculus, Linear Algebra, Probability, Statistics, and Optimization; and many would-be AI practitioners find this daunting. The course on edX [Essential Math for Machine Learning: Python Edition](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2) by Microsoft is not designed to make you a mathematician. Rather, it aims to help you learn some essential foundational concepts and the notation used to express them. The course provides a hands-on approach to working with data and applying the techniques you’ve learned, and financial aid is available for those who need it.
 
-- 机器学习和人工智能是建立在微积分、线性代数、概率、统计和优化等数学原理之上的；而许多想成为人工智能从业者的人都觉得这令人生畏。微软在 edX 上的课程 [Essential Math for Machine Learning: Python Edition](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2) 不是为了让你成为一名数学家。相反，它旨在帮助你学习一些基本的基础概念和用于表达这些概念的符号。该课程提供了一种实践的方法来处理数据和应用你所学到的技术，有需要的人可以获得经济援助。
+- 机器学习和人工智能是建立在微积分、线性代数、概率、统计和优化等数学原理之上的；而许多想成为人工智能从业者的人都觉得这令人生畏。微软在 edX 上的课程 [Essential Math for Machine Learning: Python Edition](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2) 。这门课不是为了让你成为一名数学家，相反，它旨在帮助你学习一些基本的基础概念和用于表达这些概念的符号。该课程提供了一种实践的方法来处理数据和应用你所学到的技术，有需要的人可以获得经济援助。
 
 - Now, after you've learnt the basics of Python, you need to understand the first two libraries I was talking about (Matplotlib  can come later). Numpy arrays and Pandas are used for moving around and modifying  the data you use, while Matplotlib is used to visualize this data through graphs and diagrams. The following courses together shouldn't take more than a couple of days:
 
@@ -93,7 +96,7 @@ Their course is on Udemy, and is paid, though Udemy regularly has discounts of 9
 
 It covers everything from basic regression algorithms to deep and convolutional neural networks. If you wish to explore even more advanced areas, their Deep Learning course is offered at the end of the Machine Learning for a 90% discount. However, concepts in this second course may be a little advanced and lack proper documentation, since they are so new.
 
-它涵盖了从基本回归算法到深度和卷积神经网络的所有内容。如果你想探索更高级的领域，他们的深度学习课程是在机器学习的最后提供的，有 90% 的折扣。然而，这第二门课程中的概念可能有点高级，而且缺乏适当的文件，因为它们是如此之新。
+它涵盖了从基本回归算法到深度和卷积神经网络的所有内容。如果你想探索更高级的领域，他们的深度学习课程是在机器学习的最后提供的，有 90% 的折扣。然而，这第二门课程中的概念可能有点高级，而且缺乏适当的文档支持，因为它们较新。
 
 If you're unwilling to pay for this course, you can check out Google's free Deep Learning course [here](https://www.udacity.com/course/deep-learning--ud730) or University of Michigan's free course [here](https://www.coursera.org/learn/python-machine-learning). However, these are far from as well-rounded as the SuperDataScience team's courses.
 
@@ -208,4 +211,10 @@ If anyone has additions, suggestions, queries or feedback, feel free to write to
 
 如果有人有补充、建议、疑问或反馈，请随时写信给 me@kj.jaisingh@gmail.com。 
 
-<a href="https://tracking.gitads.io/?repo=high-school-guide-to-machine-learning"><img src="https://images.gitads.io/high-school-guide-to-machine-learning" alt="GitAds"/></a>
+<h2>Guide Contributors</h2>
+
+<a href="https://github.com/kjaisingh/ML-for-High-Schoolers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kjaisingh/ML-for-High-Schoolers" />
+</a>
+
+<br>
