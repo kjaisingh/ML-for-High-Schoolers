@@ -1,8 +1,8 @@
-# Introducing High School students to Machine Learning and Artificial Intelligence
+# Learning Artificial Intelligence and Machine Learning as a High Schooler
 <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-lightgrey"></a>
 <a href="./README-en-cn.md"><img alt="中文" src="https://img.shields.io/badge/中文-lightgrey"></a>
 
-Hi, I'm Karan, a high school student based in Singapore. Having spent the last year exploring the field of Machine Learning (ML) and Artificial Intelligence (AI), I believe that there does not exist a learning path in this field that is built specifically **for High School students**. This is my attempt to create one.
+Hi, I'm Karan, a high school student based in Singapore. Having spent the last year exploring the field of Artificial Intelligence (AI) and Machine Learning (ML), I believe that there does not exist a learning path in this field that is built specifically **for High School students**. This is my attempt to create one.
 
 Since I started my journey into this area, I've tried to spend a couple of hours every day understanding as much as I can, whether it be watching Youtube videos, undertaking personal projects or simply reading books. I've been guided by older peers who've had far more experience than me, but know that such guidance is not available to everyone - so this is my attempt to relay all the learnings into one concrete document.
 
@@ -45,7 +45,7 @@ Ensure that the datasets you use are simple and clean in nature - i.e. they shou
 
 If you ever come across a road block, [Stack Overflow](https://stackoverflow.com/) is your best friend - they have an answer to almost any question that you'd have. If it doesn't, just post one - you should get replies within a couple of hours! There's nothing much more to this step - when you find that you've become comfortable with the whole modelling process from back to front, feel free to move on!
 
-### 5. Find an area of particular interest, and dive deeper.
+### 5. Find a niche and dive deeper.
 Now you should not only have a great and broad understanding of all the basics, but also have an ability to apply it to some real-world data problems. However, it's important to understand that these basics don't span the whole world of ML/AI - rather, many of them have been known ways of tackling such data problems for years, but unfortunataly only more recently were computers powerful enough to truly leverage them in a reasonable amount of runtime. Most modern work in the area focuses on improving these in a variety of novel ways, and building systems tangential to these that leverage the underlying algorithms but improve, extent and enhance them in a variety of ways. Thus, I suggest you find an area of interest in the broader field of Machine Learning, and delve deeper into it in order to become more experienced with the state of the art of that field as it is today. You probably won't have time to become experts in all of the areas I outlined during your high school tenure, but try and conquer one or two.
 
 Before getting into these areas, I'd recommend truly understanding what it pertains - a simple Youtube search for a high-level explanation will give you all you need. So let's get to it.
@@ -59,7 +59,7 @@ Before getting into these areas, I'd recommend truly understanding what it perta
 
 - There are also areas like Boltzmann Machines (used for recommendation systems), Adversial Networks (AI improving AI) and Genetic Algorithms (improving a solution to a problem in a way similar to natural evolution), but in my opinion, the combination of their niche applicability and requiring more advanced levels of math make them less desirable as a starting point. Do feel free to explore these if you have a particular passion for one of them, though they also aren't as well documented as the other areas, which may make mastering them slightly more tricky.
 
- ### BONUS (extremely important). Truly understand the field of Artificial Intelligence.
+ ### BONUS (though still extremely important): Broaden your AI/ML horizons.
 If you want to work in this field in the long run, its crucial to understand from a more holistic perspective - by this I mean learning about groundbreaking discoveries, the discource around how it should be applied and its general implications on society. You should start doing things listed in this section as soon as you have the necessary understanding of how the technology works - I believe a good starting point is as you begin Section 4 of this learning path. This kind of information may not specifically help with implementing algorithms for data problems, but for a technology that is so integral to today's world, it really helps shape a more robust understanding of its role, true potential and limits.
 
 There's a few things that a high schooler can do to deepen their general understanding of the field and make them more knowledgeable:
@@ -74,7 +74,7 @@ There's a few things that a high schooler can do to deepen their general underst
 ## Conclusion
 I've heard far too many people tell me that learning Machine Learning and Artificial Intelligence is too much of a stretch for a high schooler to not write this - with a well-paved learning path, it can be studied by anyone. And with that, I wish everyone the best of luck in undertaking this learning path. 
 
-If anyone has additions or improvements to this guide, you are welcome to make a PR to this repository. And for suggestions, queries or feedback, feel free to write to me @ kj.jaisingh@gmail.com. 
+If you have additions or possible improvements to this guide, feel free to make a PR to this repository. And for feedback, collaborations or just general queries, feel free to write to me @ [kj.jaisingh@gmail.com](mailto:kj.jaisingh@gmail.com).
 
 <h2>Contributors</h2>
 
